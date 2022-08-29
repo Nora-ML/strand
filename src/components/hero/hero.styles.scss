@@ -1,0 +1,15 @@
+// we will utilize bulma hero css
+
+.hero-image{
+    background-image: url('../../assets/heritage_in_bloom.jpg');
+    background-color: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2));
+    background-position: center;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.hero-title{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 2rem;
+}
