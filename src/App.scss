@@ -3,7 +3,6 @@
 // advantage of bulma we can import only the things we need
 // not the whole bundles that will make my project bundle large
 
-
 // Import only what you need from Bulma
 @import '../node_modules/bulma/sass/utilities/_all.sass';
 @import '../node_modules/bulma/sass/elements/button.sass';
@@ -20,7 +19,7 @@ img {
   width: 100%;
 }
 
-.nomad-container {
+.strands-container {
   width: 60%;
   margin: 0 auto;
 }
@@ -70,7 +69,7 @@ img {
 }
 
 //black button styles
-.nomad-btn {
+.strands-btn {
   display: block;
   width: 100%;
   line-height: 1.4;
@@ -83,7 +82,7 @@ img {
 }
 
 //input styles
-.nomad-input {
+.strands-input {
   width: 100%;
   padding: 10px;
   margin-bottom: 1rem;
